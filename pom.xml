@@ -125,7 +125,7 @@
     <openejb.osgi.dynamic.import>${openejb.osgi.dynamic.import.pkg}</openejb.osgi.dynamic.import>
     <openejb.osgi.symbolic.name>${project.groupId}.${project.artifactId}</openejb.osgi.symbolic.name>
 
-    <batchee.version>0.4-incubating</batchee.version>    
+    <batchee.version>1.0.0</batchee.version>    
 
     <version.arquillian>1.1.13.Final</version.arquillian>
     <version.shrinkwrap.descriptor>2.0.0</version.shrinkwrap.descriptor>
@@ -356,7 +356,7 @@
           <!-- the following settings are important when working with git -->
           <localCheckout>true</localCheckout>
           <pushChanges>false</pushChanges>
-          <releaseProfiles></releaseProfiles>
+          <releaseProfiles/>
         </configuration>
       </plugin>
 
