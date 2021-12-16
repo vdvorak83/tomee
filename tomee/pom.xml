@@ -374,7 +374,7 @@
       <dependency>
         <groupId>org.glassfish</groupId>
         <artifactId>javax.faces</artifactId>
-        <version>${mojarra.version}</version>
+        <version>2.3.5</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
