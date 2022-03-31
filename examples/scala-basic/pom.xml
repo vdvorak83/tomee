@@ -31,7 +31,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <scala.version>2.11</scala.version>
-    <scala.full-version>${scala.version}.9</scala.full-version>
+    <scala.full-version>2.13.8</scala.full-version>
   </properties>
 
   <repositories>
@@ -173,7 +173,7 @@
       </activation>
       <properties>
         <scala.version>2.12</scala.version>
-        <scala.full-version>${scala.version}.2</scala.full-version>
+        <scala.full-version>2.13.8</scala.full-version>
       </properties>
     </profile>
   </profiles>
