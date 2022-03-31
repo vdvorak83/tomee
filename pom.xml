@@ -179,7 +179,7 @@
     <geronimo-javamail_1.4_spec.version>1.9.0-alpha-2</geronimo-javamail_1.4_spec.version>
     <myfaces.version>2.2.12</myfaces.version>
     <mojarra.version>2.2.12</mojarra.version>
-    <slf4j.version>1.7.21</slf4j.version>
+    <slf4j.version>1.7.36</slf4j.version>
     <log4j.version>1.2.17</log4j.version>
     <log4j2.version>2.0.1</log4j2.version>
     <osgi.framework.version>4.2.0</osgi.framework.version>
@@ -356,7 +356,7 @@
           <!-- the following settings are important when working with git -->
           <localCheckout>true</localCheckout>
           <pushChanges>false</pushChanges>
-          <releaseProfiles></releaseProfiles>
+          <releaseProfiles/>
         </configuration>
       </plugin>
 
