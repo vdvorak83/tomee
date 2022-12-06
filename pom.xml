@@ -166,7 +166,7 @@
     <commons-discovery.version>0.5</commons-discovery.version>
     <commons-lang3.version>3.5</commons-lang3.version>
     <commons-io.version>2.4</commons-io.version>
-    <commons-net.version>3.3</commons-net.version>
+    <commons-net.version>3.9.0</commons-net.version>
 
     <bval.version>1.1.2</bval.version>
     <org.apache.activemq.version>5.14.5</org.apache.activemq.version>
